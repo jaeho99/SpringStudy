@@ -1,6 +1,8 @@
 # SpringStudy
 토비의 스프링 공부하기
 
+terminology : 공부하면서 궁금한 용어들 정리한 폴더
+
 오브젝트와 의존관계
 1. 초난감 DAO
 2. DAO의 분리
