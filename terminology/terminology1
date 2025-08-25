@@ -1,0 +1,10 @@
+리플렉션(reflection)
+자바에서 클래스나 멤버에 대한 정보를 런타임에 조사하고, 조작할 수 있는 기능이다. 
+예를 들어, 클래스의 이름, 메서드, 필드, 생성자 등에 대한 정보를 프로그램 실행중에 알아내고, 이를 통해 객체를 생성하거나 메서드를 호출할 수 있다.
+이기능 덕분에, 개발자는 코드의 유연성과 확장성을 높일 수 있다.
+
+출처 : https://curiousjinan.tistory.com/entry/java-reflection-explain
+
+프로퍼티
+관심사의 분리(Separation of Concerns)
+
